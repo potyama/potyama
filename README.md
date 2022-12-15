@@ -1,4 +1,5 @@
 ### Hi there 👋
+potyama
 
 - Information and Computer Engineering, National Institute of Technology, Kisarazu College(2016-2021)
 

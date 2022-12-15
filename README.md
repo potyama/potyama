@@ -1,4 +1,9 @@
 ### Hi there 👋
+
+- Information and Computer Engineering, National Institute of Technology, Kisarazu College(2016-2021)
+
+- Information and Computer Engineering, Chiba Institute of Technology(2021-????)
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=potyama&theme=synthwave&show_icons=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=potyama&theme=synthwave&show_icons=true)
 

@@ -5,8 +5,7 @@ potyama
 
 - Information and Computer Engineering, Chiba Institute of Technology(2021-????)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=potyama&theme=synthwave&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=potyama&theme=synthwave&show_icons=true)
+[![potyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=potyama)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=potyama)](https://github.com/ryo-ma/github-profile-trophy)
 <!--

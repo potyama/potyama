@@ -3,7 +3,9 @@ potyama
 
 - Information and Computer Engineering, National Institute of Technology, Kisarazu College(2016-2021)
 
-- Information and Computer Engineering, Chiba Institute of Technology(2021-????)
+- Information and Computer Engineering, Chiba Institute of Technology(2021-2023)
+
+- Informatics Program, Kogakuin University(2023-????)
 
 [![potyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=potyama&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 

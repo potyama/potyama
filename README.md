@@ -5,7 +5,10 @@ potyama
 
 - Information and Computer Engineering, Chiba Institute of Technology(2021-2023)
 
-- Informatics Program, Kogakuin University(2023-????)
+- Master's Program in Informatics, Kogakuin University (2023–2025)
+
+- Doctoral Program in Informatics, Kogakuin University (2025–Present)
+
 
 [![potyama's GitHub stats](https://github-readme-stats.vercel.app/api?username=potyama&count_private=true&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
